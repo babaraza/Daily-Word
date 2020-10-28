@@ -1,0 +1,5 @@
+sendgrid~=6.1.0
+python-dotenv~=0.10.3
+numpy~=1.17.4
+requests~=2.24.0
+beautifulsoup4~=4.8.1
